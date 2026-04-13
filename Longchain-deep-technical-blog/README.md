@@ -11,7 +11,7 @@ This repository contains my implementation and blog for the GenAI assignment.
 - Vector Databases (FAISS)
 
 ## 🧠 Blog Link
-[PASTE YOUR MEDIUM LINK HERE]
+[https://medium.com/@nandakishor271.2k5/building-llm-applications-with-langchain-a-deep-technical-guide-cd466d5d9748?postPublishedType=repub]
 
 ## 💻 Tech Stack
 - Python
